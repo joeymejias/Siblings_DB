@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="empty">The table has no records.</string>
+    <string name="hint">Enter new name and press Done.</string>
+    <string name="message_new">The _id number of the new record will be assigned automatically.</string>
+
+    <!-- Dialog titles: -->
+
+    <string name="title_new">New record</string>
+    <string name="title_update">Update</string>
+    <string name="title_update_or_delete">Update or delete?</string>
+
+    <!-- Dialog buttons: -->
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_update">Update</string>
+
+    <!-- Menu items: -->
+
+    <string name="action_append">New record</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_settings">Settings</string>
+</resources>
